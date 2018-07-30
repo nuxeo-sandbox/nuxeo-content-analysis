@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.nuxeo.contentanalysis
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-content-analysis-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.nuxeo.contentanalysis.nuxeo-content-analysis-core;singleton=true
+Nuxeo-Component: OSGI-INF/contentanalysis-operation-contrib.xml
